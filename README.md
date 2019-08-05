@@ -1,4 +1,4 @@
-## A Simple To-Do List app built with React.js
+## A Simple Daily Activity app built with React.js
 
 ## Available Scripts
 
