@@ -1,4 +1,5 @@
 ## A Simple Daily Activity app built with React.js
+![Capture](https://user-images.githubusercontent.com/40885937/62473942-09f87500-b7cc-11e9-8f51-4a2560b2f45d.PNG)
 
 ## Available Scripts
 
